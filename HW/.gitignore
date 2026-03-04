@@ -1,0 +1,38 @@
+ KiCad autosave
+*.autosave
+
+# KiCad backup files
+*.bak
+*-bak.*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# KiCad cache libraries
+*-cache.lib
+*-cache.kicad_sym
+
+# KiCad lock files
+*.lck
+
+# KiCad intermediate files
+*.net
+*.dsn
+*.ses
+
+# Fabrication outputs
+gerbers/
+plot/
+production/
+
+*.gbr
+*.gbrjob
+*.drl
+*.map
+*.pos
+*.csv
+*.rpt
+
+# 3D exports
+*.wrl
+*.step
+*.stp
